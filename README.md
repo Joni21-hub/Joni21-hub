@@ -1,12 +1,13 @@
 # Hi there, I'm Joni! 👋
 *Semangat ya, hidup itu cobaan. Kalau gak hidup, gak nyobain.*
 
-Seorang mahasiswa Sistem Informasi yang antusias dalam merancang dan membangun solusi perangkat lunak dari hulu ke hilir (*full-stack*). Saya tertarik pada pengembangan aplikasi web, pemodelan sistem (UML/Entity Relationship), dan struktur data. 
+Seorang mahasiswa Sistem Informasi yang sangat menyukai dunia bisnis dan teknologi. Saya antusias dalam merancang solusi perangkat lunak dari hulu ke hilir, terutama dalam membangun platform yang dapat memberikan nilai bisnis secara nyata.
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joni21._) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC1Z9QHQl7_dwIoV-zuvP-5Q) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jutama937)
 
 ## 🚀 What I'm Building Now
-- 💻 Mengembangkan **Rentify**, platform *marketplace* penyewaan dengan integrasi *payment gateway* (Midtrans QRIS).
-- 🛠️ Merancang **ACCatk**, sistem Point of Sales (POS) modern dengan arsitektur *backend* yang tangguh.
-- 🌊 Membangun **Sistem Monitoring Bendungan**, aplikasi simulasi Python berbasis GUI dengan implementasi OOP dan *state patterns*.
+- 💻 Mengembangkan **Rentify**, platform *e-commerce* penyewaan (Rental E-Commerce).
 
 ## 🧠 My Tech Ecosystem
 
