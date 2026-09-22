@@ -19,3 +19,8 @@ Seorang mahasiswa yang sangat menyukai dunia bisnis dan teknologi. Saya antusias
     <img src="https://skillicons.dev/icons?i=laravel,php,mysql," />
   </a>
 </div>
+
+## GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joni21-hub&show_icons=true&theme=radium&hide_border=true" alt="Joni's GitHub Stats" />
+</div>
