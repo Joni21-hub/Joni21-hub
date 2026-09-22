@@ -1,7 +1,7 @@
-# Hi there, I'm Joni! 👋
+# Hi there, I'm Joni!
 *Semangat ya, hidup itu cobaan. Kalau gak hidup, gak nyobain.*
 
-Seorang mahasiswa Sistem Informasi yang sangat menyukai dunia bisnis dan teknologi. Saya antusias dalam merancang solusi perangkat lunak dari hulu ke hilir, terutama dalam membangun platform yang dapat memberikan nilai bisnis secara nyata.
+Seorang mahasiswa Sistem Informasi yang sangat menyukai dunia bisnis dan teknologi. Saya antusias dalam merancang platform yang dapat memberikan nilai bisnis secara nyata.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joni21._) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC1Z9QHQl7_dwIoV-zuvP-5Q) [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jutama937)
