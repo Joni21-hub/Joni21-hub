@@ -15,5 +15,7 @@ Seorang mahasiswa yang sangat menyukai dunia bisnis dan teknologi. Saya antusias
 ## My Tech
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/67b2a5c1-a29f-4096-b78e-ea324d17f577" alt="Laravel PHP Synergy" width="600" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,mysql," />
+  </a>
 </div>
