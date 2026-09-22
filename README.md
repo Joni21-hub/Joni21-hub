@@ -8,8 +8,9 @@ Seorang mahasiswa yang sangat menyukai dunia bisnis dan teknologi. Saya antusias
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF0000.svg?logo=Instagram&logoColor=white)](https://instagram.com/joni21._) [![HackerRank](https://img.shields.io/badge/HackerRank-%2337FD12.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/jutama937)
 
-## What I'm Building Now
-- 💻 Mengembangkan **Rentify**, platform *e-commerce* penyewaan (Rental E-Commerce).
+## I'm Building Now
+- Becoming a better person
+- Develop **Rentify**, platform *e-commerce* penyewaan (Rental E-Commerce).
 
 ## My Tech
 
