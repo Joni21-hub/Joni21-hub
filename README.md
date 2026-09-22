@@ -2,7 +2,7 @@
 
 Seorang mahasiswa yang sangat menyukai dunia bisnis dan teknologi. Saya antusias dalam merancang platform yang dapat memberikan nilai bisnis secara nyata.
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=007FFF&center=true&vCenter=true&width=800&lines=Semangat+ya,+hidup+itu+cobaan+Kalau+gak+hidup,+gak+nyobain." alt="Animated Blue Quote" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=300&size=22&duration=1000&pause=1000&color=007FFF&center=true&vCenter=true&width=500&lines=Semangat+ya,+hidup+itu+cobaan+Kalau+gak+hidup,+gak+nyobain." alt="Animated Blue Quote" />
 </div>
 
 ## 🌐 Socials
