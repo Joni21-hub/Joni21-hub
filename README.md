@@ -15,5 +15,5 @@ Seorang mahasiswa yang sangat menyukai dunia bisnis dan teknologi. Saya antusias
 ## My Tech
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" width="250" />
+  <img src="https://github.com/user-attachments/assets/67b2a5c1-a29f-4096-b78e-ea324d17f577" alt="Laravel PHP Synergy" width="600" />
 </div>
